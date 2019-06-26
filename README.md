@@ -25,3 +25,18 @@ https://www.kaggle.com/c/quora-insincere-questions-classification
 
 ------------------------------------------------------------------------------------
 
+how-to-preprocess-for-glove-eda notebook:
+
+Description: simple techniques for better correlation between vocabulary and pretrained GloVe embdeddings
+
+Databases:
+
+https://www.kaggle.com/authman/pickled-glove840b300d-for-10sec-loading
+
+https://www.kaggle.com/c/jigsaw-unintended-bias-in-toxicity-classification
+
+------------------------------------------------------------------------------------
+
+
+
+
