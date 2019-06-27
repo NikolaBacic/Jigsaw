@@ -37,6 +37,15 @@ https://www.kaggle.com/c/jigsaw-unintended-bias-in-toxicity-classification
 
 ------------------------------------------------------------------------------------
 
+jigsaw-v2 notebook:
+
+Description: improved score on jigsaw-v1
+
+Databases:
+
+https://www.kaggle.com/c/jigsaw-unintended-bias-in-toxicity-classification
+
+https://www.kaggle.com/authman/pickled-glove840b300d-for-10sec-loading
 
 
 
